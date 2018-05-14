@@ -51,8 +51,8 @@
 
 byte ThermoStatus = AUTO_MODE;
 
-char ssid[] = "Kikka";  
-char pass[] = "74306b3033306b333671333365";
+char ssid[] = "XXXXX";  
+char pass[] = "XXXXXXXXXX";
 
 extern uint8_t SmallFont[];
 extern uint8_t BigFont[];
